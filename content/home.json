@@ -7,14 +7,14 @@
       "autoplay": 9000,
       "slides": [
         {
-          "start": "2021-11-29T13:12:54.164Z",
-          "end": "2021-11-29T13:12:54.334Z",
-          "img": "/img/uploads/bannerslide_01.png"
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/bannerslide_02.png"
         },
         {
-          "start": "2021-11-29T13:13:04.337Z",
-          "end": "2021-11-29T13:13:04.517Z",
-          "img": "/img/uploads/bannerslide_02.png"
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/bannerslide_01.png"
         }
       ]
     },
