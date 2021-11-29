@@ -1,24 +1,24 @@
 {
-  "store_id": 17604,
-  "name": "tabacariast",
   "domain": "tabacariast.netlify.app",
-  "short_name": "tabacariast",
-  "description": "tabacariast",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#0d1940",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#f2ecd8",
+  "repository": "ecomplus-stores/tabacariast",
+  "logo": "/img/uploads/logo1.png",
+  "name": "Tabacaria Store",
+  "short_name": "Tabacaria Store",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
+  "mini_logo": "",
+  "favicon": "/img/uploads/favicon-copia.png",
   "country_code": "BR",
-  "repository": "ecomplus-stores/tabacariast"
+  "secondary_color": "#d93d76",
+  "icon": "/img/uploads/logo1-copia.png",
+  "store_id": 17604,
+  "description": "Tabacaria do Chris",
+  "large_icon": "/img/uploads/logo1-copia.png"
 }
