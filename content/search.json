@@ -3,6 +3,54 @@
     {
       "type": "search-engine",
       "enabled": true
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/bannerslide_01.png"
+        },
+        {
+          "img": "/img/uploads/bannerslide_02.png"
+        }
+      ]
+    },
+    {
+      "type": "offers-timer",
+      "max_hours": 24,
+      "start": "2021-11-29T13:00:08.705Z",
+      "end": "2021-11-29T13:00:08.835Z"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "sales"
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0,
+      "sort": "name"
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "slides": [
+        {
+          "start": "2021-11-29T13:01:40.857Z",
+          "end": "2021-11-29T13:01:41.017Z",
+          "img": "/img/uploads/bannerslide_02.png"
+        },
+        {
+          "start": "2021-11-29T13:01:56.467Z",
+          "end": "2021-11-29T13:01:56.639Z",
+          "img": "/img/uploads/bannerslide_01.png"
+        }
+      ]
     }
   ]
 }
