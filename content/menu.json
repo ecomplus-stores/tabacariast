@@ -1,5 +1,9 @@
 {
-  "sort_categories": [],
+  "sort_categories": [
+    "pods-descartaveis",
+    "essencias"
+  ],
   "phone_wpp": true,
-  "socials": true
+  "socials": true,
+  "alphabetical_order": true
 }
