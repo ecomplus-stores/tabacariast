@@ -1,7 +1,7 @@
 {
   "domain": "tabacariast.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#0d1940",
+  "primary_color": "#d93d76",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -16,7 +16,7 @@
   "mini_logo": "",
   "favicon": "/img/uploads/favicon-copia.png",
   "country_code": "BR",
-  "secondary_color": "#d93d76",
+  "secondary_color": "#0d1940",
   "icon": "/img/uploads/logo1-copia.png",
   "store_id": 17604,
   "description": "Tabacaria do Chris",
