@@ -1,7 +1,7 @@
 {
   "marketing_stripe": {
-    "text": "Compre no atacado com frete grátis a partir de R$250,00",
-    "link": "/promotion",
+    "text": "Frete grátis Brasil acima de R$250 💜",
+    "link": "",
     "background": "#0d1940",
     "color": "#f2f2f2"
   },
@@ -10,10 +10,6 @@
       {
         "title": "Sobre nós",
         "link": "/pages/sobre-nos"
-      },
-      {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
       }
     ],
     "phone_wpp": true,
