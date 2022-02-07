@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.9cd7febc51b5970cc37fd24710bb27f0.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.18a2f464dd07bbf85269ca3f25ad24a3.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.074a57875fd6645e0fd298ca8d4fe790.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.1c46532e70705c660c03034ee8819d11.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.3b04780cc0be5af66560aea778b214d6.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Tabacaria Store",
+  "short_name": "Tabacaria Store",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Tabacaria do Chris",
+  "background_color": "#fefcdd",
+  "theme_color": "#0d1940"
+}
